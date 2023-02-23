@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+.all {
+  margin-top: 170px;
+}
+
+.button:focus {
+  text-decoration: none;
+}
+
+
+.all1 {
+  margin-top: 130px;
+  
+}
+
+.btn-sign-up {
+  margin-left: 50px;
+}
+
+.btn-sign {
+  
+  color: black;
+  text-decoration: none;
+}
+
+
+
+
+
